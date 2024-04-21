@@ -1,0 +1,20 @@
+{
+  "name": "jameel13cli-number-guessing-game",
+  "version": "2.2.3",
+  "description": "a cli base number gasing game using typescript nodejs and inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin":"index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jameel raza",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.19",
+    "jameelraza112-cli-number-gasing-game": "^1.0.2"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
